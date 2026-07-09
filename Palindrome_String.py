@@ -1,4 +1,4 @@
-s = "MADfAM"
+s = "MADAM"
 
 n = (len(s))
 
